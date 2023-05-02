@@ -7,7 +7,7 @@ session_start();
 <head>
     <meta charset="UTF-8">
     <title>Вход в личный кабинет</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/css/style.css">
 </head>
 <body background="/pictures/Stones_Orchid_Candles_472882.jpg">
 <div class="title">
